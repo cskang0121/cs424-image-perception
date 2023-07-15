@@ -9,7 +9,13 @@ This course introduces the mathematical tools and concepts underlying image perc
 ## Assignment 1, Assignment 2 & Assignment 3
 
 [assignment1](https://github.com/cskang0121/cs424-image-perception/tree/main/assignment_1) <br><br>
-[assignment2](https://github.com/cskang0121/cs424-image-perception/tree/main/assignment_2) <br><br>
-[assignment3](https://github.com/cskang0121/cs424-image-perception/tree/main/assignment_3) <br><br>
+[assignment2](https://github.com/cskang0121/cs424-image-perception/tree/main/assignment_2) <br>
+* Assignment 2's Result (55 Participants):
+![Screenshot 2023-07-15 at 11 09 25 PM](https://github.com/cskang0121/cs424-image-perception/assets/79074359/cbf903a0-aa46-4397-807f-75d1d4a63c10)
+
+
+[assignment3](https://github.com/cskang0121/cs424-image-perception/tree/main/assignment_3) <br>
+* Assignment 3's Result (55 Participants):
+![Screenshot 2023-07-15 at 11 10 20 PM](https://github.com/cskang0121/cs424-image-perception/assets/79074359/dcbd93ec-9625-420e-b7b0-042e26812407)
 
 These assignments were used to solidify the concepts that I have learned throughout the course.
