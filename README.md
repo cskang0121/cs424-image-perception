@@ -1,4 +1,4 @@
-## CS424 Image Perception
+## SMU CS424 Image Perception
 
 This repository contains my solutions for a course in image perception and recognition. When we see a table, we vividly perceive it as an object in the class of tables.  However, computers only see a bunch of pixels. Image perception is the task of getting computers to see in a human like manner. To achieve this, researchers have pooled techniques and results from a large variety of different fields.
 
